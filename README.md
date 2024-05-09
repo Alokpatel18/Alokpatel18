@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://github.com/Anshuman2121/Anshuman2121/blob/main/cover.jpg" alt="cover" />
+<img width="100%" height = "250px" src="(https://raw.githubusercontent.com/Alokpate18/Alokpatel18/gif3.gif)" alt="cover" />
 </div>
 
 <h1> Hello Fellow <img src = "gif3.gif" width = 50px> </h1>
